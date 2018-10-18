@@ -1,3 +1,3 @@
-# STM32_in_the_sky
+#STM32_in_the_sky
 
-debut de projet test
+Exposition du projet et ce qu'il fait
